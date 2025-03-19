@@ -1,0 +1,57 @@
+[
+    {
+      "name": "QR Code Generator",
+      "image": "/project/QR.png",
+      "view": "https://sagarraj2001.github.io/Qr-code-with-sagarraj/",
+      "code": "https://github.com/Sagarraj2001/Qr-code-with-sagarraj"
+    },
+    {
+      "name": "Portfolio1",
+      "image": "/project/portfolio.png",
+      "view": "https://sagarrajportfolio.netlify.app/",
+      "code": "https://github.com/Sagarraj2001/portfolio.io"
+    },
+    {
+      "name": "Registration Form",
+      "image": "/project/form.png",
+      "view": "https://sagarraj2001.github.io/Registration_Form-/",
+      "code": "https://github.com/Sagarraj2001/Registration_Form-"
+    },
+    {
+      "name": "BG Generator",
+      "image": "/project/background.png",
+      "view": "https://sagarraj2001.github.io/Bg_Generator/",
+      "code": "https://github.com/Sagarraj2001/Bg_Generator"
+    },
+    {
+      "name": "CRUD App",
+      "image": "/project/CRUD.png",
+      "view": "https://cerulean-flan-625db2.netlify.app/",
+      "code": "https://github.com/Sagarraj2001/CRUDAPP"
+    },
+    {
+      "name": "LearnBuddy",
+      "image": "/project/Learning.png",
+      "view": "https://clever-lolly-f7ceb1.netlify.app/",
+      "code": "https://github.com/Sagarraj2001/Learnbuddy"
+    },
+    {
+      "name": "Text Analyzer",
+      "image": "/project/Text.png",
+      "view": "https://gorgeous-cobbler-378c90.netlify.app/",
+      "code": "https://github.com/Sagarraj2001/Text_Analyzer"
+    },
+    {
+      "name": "Portfolio2",
+      "image": "/project/portfolio2.png",
+      "view": "https://sagarrajportfolio.vercel.app/",
+      "code": "https://github.com/Sagarraj2001/Portfolio"
+    },
+    {
+      "name": "Landing Page",
+      "image": "/project/landing.png",
+      "view": "https://sagarraj2001.github.io/Landing_page/",
+      "code": "https://github.com/Sagarraj2001/Landing_page"
+    }
+  ]
+  
