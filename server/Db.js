@@ -1,13 +1,13 @@
 const mongoose=require("mongoose");
+const dotenv=require("dotenv");
 
+dotenv.config();
 
 const connection=async()=>{
     try{
-        mongoose.connect("mongodb+srv://sagarraj19042001:Sagarraj%401234@cluster0.clhca.mongodb.net/portfolio");
-        console.log("database connected");
-    }
-    
-    catch(err){
+        mongoose.connect(process.env.URL)
+        console.log("Database Connected Successfully");
+    }catch(err){
         console.log(err);
     }
 }

@@ -1,10 +1,12 @@
 const express=require("express");
 const cors=require("cors");
+const dotenv=require("dotenv");
 const bodyParser=require("body-parser");
 const msgRouter=require("./Routes/MessageRoute");
 require("./Db");
 
 const app=express();
+dotenv.config();
 app.use(cors({
     origin:["http://localhost:5173"],
     methods:["GET","POST"],
@@ -15,8 +17,6 @@ app.use(bodyParser.json());
 
 app.use("/api",msgRouter);
 
-const PORT=5000;
-
-app.listen(PORT,()=>{
-    console.log(`app is running on port ${PORT}`);
+app.listen(process.env.PORT,()=>{
+    console.log(`server is running on port ${process.env.PORT}`);
 })
