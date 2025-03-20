@@ -5,7 +5,7 @@ function HeroSection() {
     return (
         <>
             <div id="home">
-                <section className="container-fluid d-flex align-items-center justify-content-center text-center min-vh-100  text-white">
+                <section className="container-fluid d-flex align-items-center justify-content-center text-center min-vh-100  text-white mt-5">
                     <div className="row">
                         <div className="col-lg-6 d-flex flex-column justify-content-center">
                             <h1 className="display-4 fw-bold">Welcome to My Portfolio</h1>

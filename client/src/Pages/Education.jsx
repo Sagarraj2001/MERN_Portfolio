@@ -3,7 +3,7 @@ import React from 'react';
 const Education = () => {
     return (
         <div id="education">
-            <section className="container-fluid d-flex align-items-center justify-content-center text-center min-vh-100  text-white">
+            <section className="container-fluid d-flex align-items-center justify-content-center text-center min-vh-100  text-white mt-5">
                 <div className="container py-5">
                     <h1 className="text-warning fw-bold mb-4">
                         <u>My Education</u>
